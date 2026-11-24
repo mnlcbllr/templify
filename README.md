@@ -201,6 +201,11 @@ The cron job is scheduled via `vercel.json` (daily at 00:00 UTC). Set `CRON_SECR
 
 Contributions are welcome. Open an issue or submit a pull request.
 
+## Project links
+
+- [Templify project overview](https://manuelcaballero.dev/projects/templify)
+- [Manuel Caballero — Full-Stack AI Engineer](https://manuelcaballero.dev)
+
 ## License
 
 All rights reserved. This repository is private — do not redistribute without permission.
